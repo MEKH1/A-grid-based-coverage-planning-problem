@@ -1,7 +1,5 @@
 # A-grid-based-coverage-planning-problem
 
-# Assignment 1.0.A
-
 # Table of Contents
 1. [Problem Overview](#problem_overview)
 2. [How to run the code](#run_code)
